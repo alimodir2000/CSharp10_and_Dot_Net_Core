@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{FB641A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryManagement", "CSharp\MemoryManagement\MemoryManagement.csproj", "{5368008F-71E3-4F87-BA4B-36195DBBBC97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqAndPLinq", "CSharp\LinqAndPLinq\LinqAndPLinq.csproj", "{202F4FD3-4642-4718-80D9-5C7E0C142A55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{5368008F-71E3-4F87-BA4B-36195DBBBC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5368008F-71E3-4F87-BA4B-36195DBBBC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5368008F-71E3-4F87-BA4B-36195DBBBC97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202F4FD3-4642-4718-80D9-5C7E0C142A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202F4FD3-4642-4718-80D9-5C7E0C142A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202F4FD3-4642-4718-80D9-5C7E0C142A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202F4FD3-4642-4718-80D9-5C7E0C142A55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5368008F-71E3-4F87-BA4B-36195DBBBC97} = {FB641A2A-5917-4757-8043-9567DDBB72F0}
+		{202F4FD3-4642-4718-80D9-5C7E0C142A55} = {FB641A2A-5917-4757-8043-9567DDBB72F0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A9AC5DC8-9978-47D4-893B-DA1F78D191C0}
